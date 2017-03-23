@@ -1,5 +1,5 @@
 # rull
-Skript millega märkmeid teha
+Skript märkmete tegemiseks.
 
 NB! Lugege skriptis olevaid kommentaare enne käivitamist!
 
